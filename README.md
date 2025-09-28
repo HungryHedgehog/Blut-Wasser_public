@@ -31,3 +31,7 @@ R: Check Ammo
 H: Heal (if you have water)
 
 Meleeing while dashing deals bonus damage.
+
+The game is made on and for Linux, the windows build is bonus.
+
+Copyright Lara Rohrssen
